@@ -1,6 +1,7 @@
 import pygame
 import serial
 
+# First game (Testing the use of the joystick controlling a character)
 pygame.init()
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
